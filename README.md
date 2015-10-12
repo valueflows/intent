@@ -1,5 +1,5 @@
 # intent
-Vocab about Offer, Request, Want, Need, Desire, predecessors to [exchanges](https://github.com/openvocab/exchange).
+Vocab about Offer, Request, Want, Need, Desire, and other related predecessors to [exchanges](https://github.com/openvocab/exchange).
 
 We see many groups posting intents that are different from commercial advertisements or ecommerce offers.
 
