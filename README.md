@@ -13,4 +13,4 @@ The aim of this repository is to collect their use cases and potential valueflow
 
 See also [intent casting](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=intent%20casting)
 
-Or, still the best implementation of intents that I know of, [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention).
+Or [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention).
