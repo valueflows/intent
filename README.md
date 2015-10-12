@@ -12,3 +12,5 @@ Some of the groups we have seen posting these intents include Mutual Aid Network
 The aim of this repository is to collect their use cases and potential valueflows vocabulary additions.
 
 See also [intent casting](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=intent%20casting)
+
+Or, still the best implementation of intents that I know of, [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention).
