@@ -10,3 +10,5 @@ When they find their match, those with the matching offer and want enter into a 
 Some of the groups we have seen posting these intents include Mutual Aid Networks and Mutual Credit Associations.
 
 The aim of this repository is to collect their use cases and potential valueflows vocabulary additions.
+
+See also [intent casting](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=intent%20casting)
