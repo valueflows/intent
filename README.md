@@ -14,3 +14,6 @@ The aim of this repository is to collect their use cases and potential valueflow
 See also [intent casting](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=intent%20casting)
 
 Or [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention).
+
+Intents may lead to conversations for action:
+![funnel](https://cloud.githubusercontent.com/assets/117439/11401215/144641f6-9357-11e5-8ddd-f01f5bcf4012.png)
