@@ -19,6 +19,6 @@ See also [intent casting](https://www.google.com/webhp?sourceid=chrome-instant&i
 
 Or [Netention](http://www.slideshare.net/helenefinidori/introduction-to-netention).
 
-Intents may lead to conversations for action, which may lead to repetition and improvement of the same cycle:
+Intents may lead to conversations for action, which may lead to more and better cycles of engagement:
 
 ![funnel](https://cloud.githubusercontent.com/assets/117439/11401215/144641f6-9357-11e5-8ddd-f01f5bcf4012.png)
