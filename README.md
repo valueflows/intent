@@ -11,7 +11,7 @@ When they find their match, those with the matching Offer and Want enter into a 
 
 A proposal to do something might enter into conversation for action which might result in a [process](https://github.com/valueflows/process).
 
-Some of the groups we have seen posting these intents include Mutual Aid Networks and Mutual Credit Associations.
+Some of the groups we have seen posting these intents include [Mutual Aid Networks](http://www.mutualaidnetwork.org/), [Mutual Credit Associations](https://www.community-exchange.org/home/), and [Hylo](https://www.hylo.com/c/collaborative-technology-alliance).
 
 The aim of this repository is to collect their use cases and potential valueflows vocabulary additions.
 
