@@ -5,7 +5,7 @@ We see many groups posting intents that are different from commercial advertisem
 
 They are more general, often not commercial at all, expressed not in identified products but in categories, tags, and text.  But they want to find each other. The offers want to find the matching wants. The wants want to find the matching offers.
 
-Tentatively, Intent has three main subtypes: **Give**, **Take**, and **Propose** (to do something). People use their own situationally varied names for them. **Offer** is probably the most common word for Give. **Want** or Need are other words for Take.
+Tentatively, Intent has three main subtypes: intent to **Give** something, intent to **Take** or receive something, and **Propose** (to do something). People use their own situationally varied names for them. **Offer** is probably the most common word for Give. **Want** or Need are other words for Take.
 
 When they find their match, those with the matching Offer and Want enter into a conversation for action which might result in an [exchange](https://github.com/valueflows/exchange).
 
