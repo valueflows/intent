@@ -30,3 +30,5 @@ Intents may lead to conversations for action, which may lead to more and better 
  * [vf:Offer](https://github.com/valueflows/intent/blob/master/Offer.md)
 
 ## Use Cases
+ * [Olive oil request](https://github.com/valueflows/valueflows/blob/master/use-cases/olive-oil-request.md)
+ * [Bicycle (give away)](https://github.com/valueflows/valueflows/blob/master/use-cases/circular-economy/broken-bike-give-away.md)
